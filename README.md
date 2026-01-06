@@ -43,7 +43,7 @@ employee-management-python/
 
 The application expects a JSON file with the following structure:
 
-```json
+json
 [
   {
     "Employee_id": 1001,
@@ -53,7 +53,7 @@ The application expects a JSON file with the following structure:
     "Status": "ACTIVO",
     "Salary": 4000
   }
-]```
+]
 
 ▶️ How to Run
 Clone the repository:
@@ -88,3 +88,4 @@ Mechatronics Engineer | Python | Databases | QA Foundations
 📄 License
 
 This project is for educational purposes.
+
