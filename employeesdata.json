@@ -1,0 +1,66 @@
+[
+    {
+        "Employee_id": 1001,
+        "Name": "Leidy Martinez",
+        "Department": "Data",
+        "Role": "Data Analyst",
+        "Status": "Activo",
+        "Salary": 3500
+    },
+    {
+        "Employee_id": 1002,
+        "Name": "Esteban Rojas",
+        "Department": "Software",
+        "Role": "Backend Developer",
+        "Status": "activo",
+        "Salary": 4200
+    },
+    {
+        "Employee_id": 1003,
+        "Name": "Any Gómez",
+        "Department": "Automation",
+        "Role": "QA Automation Engineer",
+        "Status": "ACTIVO",
+        "Salary": 4000
+    },
+    {
+        "Employee_id": 1004,
+        "Name": "Luisa Pérez",
+        "Department": "Software",
+        "Role": "Frontend Developer",
+        "Status": "Inactivo",
+        "Salary": 3900
+    },
+    {
+        "Employee_id": 1005,
+        "Name": "Mario López",
+        "Department": "Data ",
+        "Role": "Data Engineer",
+        "Status": "Activo",
+        "Salary": 4500
+    },
+    {
+        "Employee_id": 1006,
+        "Name": "",
+        "Department": "QA",
+        "Role": "Manual Tester",
+        "Status": "Activo",
+        "Salary": 3000
+    },
+    {
+        "Employee_id": 1007,
+        "Name": "Cata Perez",
+        "Department": "QA",
+        "Role": " ",
+        "Status": "Activo",
+        "Salary": 3000
+    },
+    {
+        "Employee_id": 1002,
+        "Name": "Esteban Rojas",
+        "Department": "Software",
+        "Role": "Backend Developer",
+        "Status": "Activo",
+        "Salary": 4200
+    }
+]
