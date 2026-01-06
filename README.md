@@ -43,7 +43,7 @@ employee-management-python/
 
 The application expects a JSON file with the following structure:
 
-json
+```json
 [
   {
     "Employee_id": 1001,
@@ -54,6 +54,7 @@ json
     "Salary": 4000
   }
 ]
+```
 
 ▶️ How to Run
 Clone the repository:
