@@ -1,11 +1,11 @@
-# 📊 Employee Management System (Python + JSON + SQLite)
+# Employee Management System (Python + JSON + SQLite)
 
 This project is a simple employee management system developed in **Python**, using a **JSON file** as the data source and **SQLite** as the database.  
 It simulates a real-world business scenario where employee information must be validated, stored, and queried efficiently.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Read employee data from a JSON file
 - Validate required employee fields
@@ -17,7 +17,7 @@ It simulates a real-world business scenario where employee information must be v
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3
 - SQLite
@@ -26,7 +26,7 @@ It simulates a real-world business scenario where employee information must be v
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 employee-management-python/
 ├── main.py
@@ -39,7 +39,7 @@ employee-management-python/
 
 ---
 
-## 📄 JSON File Format
+## JSON File Format
 
 The application expects a JSON file with the following structure:
 
@@ -56,7 +56,7 @@ The application expects a JSON file with the following structure:
 ]
 ```
 
-▶️ How to Run
+How to Run
 Clone the repository:
 
 git clone https://github.com/IngFabianGomez/employee-management-python.git
@@ -64,13 +64,13 @@ Run the application:
 
 python main.py
 
-📊 Sample Output
+Sample Output
 Active employees loaded successfully.
 Total employees processed: 5
 Active employees found: 3
 Inactive employees found: 2
 
-✅ Validation Rules
+Validation Rules
 Required fields must not be empty
 
 Salary must be an integer
@@ -79,14 +79,15 @@ Duplicate employee IDs are not allowed
 
 Status values are normalized (ACTIVO / INACTIVO)
 
-👤 Author
+Author
 Cristhiam Gómez
 Mechatronics Engineer | Python | Databases | QA Foundations
 
-🔗 LinkedIn: https://www.linkedin.com/in/cristhiam-gomez
-💻 GitHub: https://github.com/IngFabianGomez
+LinkedIn: https://www.linkedin.com/in/cristhiam-gomez
+GitHub: https://github.com/IngFabianGomez
 
-📄 License
+License
 
 This project is for educational purposes.
+
 
