@@ -53,7 +53,7 @@ The application expects a JSON file with the following structure:
     "Status": "ACTIVO",
     "Salary": 4000
   }
-]
+]```
 
 ▶️ How to Run
 Clone the repository:
@@ -86,4 +86,5 @@ Mechatronics Engineer | Python | Databases | QA Foundations
 💻 GitHub: https://github.com/IngFabianGomez
 
 📄 License
+
 This project is for educational purposes.
